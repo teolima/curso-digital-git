@@ -1,3 +1,3 @@
-# Curso git/Versionamento
+# Curso digital: git        
 ## Saldo alterações no git
-* Uso do comando git restore
+* Comando git push
