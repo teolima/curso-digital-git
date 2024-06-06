@@ -3,3 +3,4 @@
 * Comando git push
 * Comando git pull
 * Comando  git fetch
+* git diff origin/main
