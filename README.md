@@ -1,3 +1,3 @@
-# curso git/Versionamento
-## gravando mudança no repositório
-## salvando modificações no git
+# Curso git/Versionamento
+## Gravando mudança no repositório
+## Salvando modificações no git
